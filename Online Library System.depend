@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1608872917 source:c:\users\turbo\desktop\oopass1\main.cpp
+	<iostream>
+	<BOOK.h>
+	<User.h>
+	"BookList.h"
+	"UserList.h"
+
+1608784793 c:\users\turbo\desktop\oopass1\include\book.h
+	<string>
+	<User.h>
+
+1608784776 c:\users\turbo\desktop\oopass1\include\user.h
+	<string>
+
+1608742311 c:\users\turbo\desktop\oopass1\include\booklist.h
+	"BOOK.h"
+	"BOOK.h"
+	<iostream>
+
+1608575614 c:\users\turbo\desktop\oopass1\include\userlist.h
+	"User.h"
+
+1608784849 source:c:\users\turbo\desktop\oopass1\src\book.cpp
+	"BOOK.h"
+	"User.h"
+	<iostream>
+	<string>
+
+1608869697 source:c:\users\turbo\desktop\oopass1\src\booklist.cpp
+	"BookList.h"
+	"User.h"
+	"BOOK.h"
+	<iostream>
+
+1608784715 source:c:\users\turbo\desktop\oopass1\src\user.cpp
+	"User.h"
+	<iostream>
+
+1608869920 source:c:\users\turbo\desktop\oopass1\src\userlist.cpp
+	"UserList.h"
+	"User.h"
+	<iostream>
+
+1609662063 source:c:\users\turbo\desktop\online library system\main.cpp
+	<iostream>
+	<BOOK.h>
+	<User.h>
+	"BookList.h"
+	"UserList.h"
+
+1608784793 c:\users\turbo\desktop\online library system\include\book.h
+	<string>
+	<User.h>
+
+1608784776 c:\users\turbo\desktop\online library system\include\user.h
+	<string>
+
+1608742311 c:\users\turbo\desktop\online library system\include\booklist.h
+	"BOOK.h"
+	"BOOK.h"
+	<iostream>
+
+1608575614 c:\users\turbo\desktop\online library system\include\userlist.h
+	"User.h"
+
+1609660104 source:c:\users\turbo\desktop\online library system\src\book.cpp
+	"BOOK.h"
+	"User.h"
+	<iostream>
+	<string>
+
+1609660141 source:c:\users\turbo\desktop\online library system\src\booklist.cpp
+	"BookList.h"
+	"User.h"
+	"BOOK.h"
+	<iostream>
+
+1608873265 source:c:\users\turbo\desktop\online library system\src\user.cpp
+	"User.h"
+	<iostream>
+
+1609660937 source:c:\users\turbo\desktop\online library system\src\userlist.cpp
+	"UserList.h"
+	"User.h"
+	<iostream>
+
